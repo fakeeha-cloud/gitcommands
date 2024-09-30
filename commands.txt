@@ -1,3 +1,11 @@
-git config --global user.name "your user name"       [to set username]
+git config --global user.name "your user name"        [to set username]
 
-git config --global user.email "your email"         [to set email]
+git config --global user.email "your email"           [to set email]
+
+git init                                              [to initialize git]
+
+git status                                            [to list untracked files]
+
+git add -A                                            [add all untracked files to staging area]
+
+git commit -m "commit message"                        [to move staged file to local repository]
